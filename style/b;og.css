@@ -1,0 +1,9 @@
+div{
+    background-color: aqua;
+    font-weight: bold;
+}
+h3{
+    font-style: italic;
+    border-radius: 15px 25px;
+    border-color: blueviolet;
+}
